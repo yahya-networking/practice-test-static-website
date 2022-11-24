@@ -1,0 +1,70 @@
+
+/*************** TAG SECLECTORS *************************/
+body{
+   background-color: #EAF6F6;
+    }
+    hr{
+      border-color: Grey;
+      border-style:none;
+      border-top-style: dotted;
+      border-width: 3px;
+      width: 3%;
+    }
+    h1{
+      color:#66BFBF;
+      }
+    h2{
+      color: #66BFBF;
+        }
+        h3{
+          color: #66BFBF;
+          }
+          h4{
+            color: #66BFBF;
+            }
+            h5{
+              color: #66BFBF;
+              }
+              h6{
+                color: #66BFBF;
+                }
+
+/**************** CLASS SECLECTORS *************************/
+
+  .cat{
+    background-color: lightgrey;
+    display:inline;
+    margin-left: 400px;
+  }
+  .camel{
+    background-color: lightgrey;
+    display:inline;
+    margin-left: 550px;
+  }
+  .dynamic {
+    background-color: lightgrey;
+    display:inline;
+    margin-left: 325px;
+  }
+  .abcd{
+    background-color: lightblue;
+    margin-left: 500px;
+  }
+  .b{
+    background-color: lightblue;
+    margin-left: 600px;
+  }
+  .c{
+    background-color: lightblue;
+    margin-left: 500px;
+  }
+  .d{
+    background-color: lightblue;
+    margin-left: 600px;
+  }
+  .e{
+    background-color: lightblue;
+    margin-left: 650px;
+  }
+
+  /****************** id SECLECTORS *************************/

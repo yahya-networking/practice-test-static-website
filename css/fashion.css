@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top {
+  background-color: lightgreen;
+
+}
+
+.middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  margin-left: 400px;
+}
+
+.bottom {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  margin-left: 600px;
+}
+
+.AI {
+  text-decoration: underline;
+}

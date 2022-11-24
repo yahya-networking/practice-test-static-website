@@ -1,0 +1,58 @@
+/****************************TAG SECLECTORS***************************/
+body{
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+h1{
+  color: red;
+  font-size: 40px;
+}
+
+img:hover{
+  background-color: white;
+}
+p {
+  display: inline;
+}
+p:hover{
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
+
+/*****************************CLASS SECLECTORS**************************/
+
+.coding {
+  background-color: black;
+}
+.brain{
+  border-radius: 100%;
+}
+.programming {
+  background-color: black;
+}
+.designing {
+  border-radius: 100%;
+}
+.astronaut{
+  background-color: black;
+}
+.space{
+  border-radius: 100%;
+}
+.crying{
+  background-color: black;
+}
+.lady{
+  border-radius: 100%;
+}
+.man{
+  background-color: black;
+}
+.walking{
+  border-radius: 100%;
+}
+
+
+/*****************************ID SECLECTORS**************************/
+#heading {
+  color:white;
+  background-color: lightblue;
+}
